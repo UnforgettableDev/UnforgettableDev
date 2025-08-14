@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m Currently Studying Software-Development.<br>- 📚 I'm currently learning Unity3D & C#.<br>- ⚡ In my free time I Make Small Scale Unity Games.</p>
+<p align="left">-  📚 I'm currently learning Unity3D & C#.<br>- ⚡ In my free time I Make Small Scale Unity Games.</p>
 
 ###
 
